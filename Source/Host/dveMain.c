@@ -4,4 +4,5 @@
 int main()
 {
 	printf("This is DVE Main Program!\n");
+	exit(1);
 }
